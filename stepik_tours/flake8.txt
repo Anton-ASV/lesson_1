@@ -1,0 +1,14 @@
+./stepik_tours/settings.py:13:1: F401 'pathlib.Path' imported but unused
+./stepik_tours/settings.py:23:80: E501 line too long (81 > 79 characters)
+./stepik_tours/settings.py:91:80: E501 line too long (91 > 79 characters)
+./stepik_tours/settings.py:94:80: E501 line too long (81 > 79 characters)
+./stepik_tours/settings.py:97:80: E501 line too long (82 > 79 characters)
+./stepik_tours/settings.py:100:80: E501 line too long (83 > 79 characters)
+./tours/tests.py:1:1: F401 'django.test.TestCase' imported but unused
+./tours/admin.py:1:1: F401 'django.contrib.admin' imported but unused
+./tours/views.py:9:1: E302 expected 2 blank lines, found 1
+./tours/views.py:9:27: E231 missing whitespace after ','
+./tours/views.py:10:27: E203 whitespace before ':'
+./tours/views.py:13:1: E302 expected 2 blank lines, found 1
+./tours/views.py:13:26: E202 whitespace before ')'
+./tours/models.py:1:1: F401 'django.db.models' imported but unused
